@@ -1,0 +1,42 @@
+#p1 img{
+    height: 200px;
+    width: 100px;
+    padding: 30px;
+    
+}
+
+#picture{
+    display:flex;
+   justify-content: space-around;
+    border: 5px solid  rgb(32, 3, 3) ;
+    justify-content: space-evenly;
+    padding-top: 5%;
+}
+
+#p1{
+    color:maroon;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+/* body{
+    min-height: 100vh;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    
+}
+#content{
+    display:flex;
+    align-items: left;
+    justify-content: left;
+    background-color: white;
+    color: white;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 2500%;
+
+    width:30%;
+    height:0%;
+}
+
+ */
